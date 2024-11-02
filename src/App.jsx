@@ -42,7 +42,7 @@ function App() {
             <p className="text-base font-medium">{item.location.name}</p>
             </div>
             </div>
-            <div className="absolute  top-3 right-3">
+            <div className="absolute  top-3 right-2">
              
             </div>
           </div>
